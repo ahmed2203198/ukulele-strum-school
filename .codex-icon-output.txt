@@ -1,0 +1,1 @@
+Saved `icon_1024.png`, but the native tool produced 1254×1254 despite two explicit size requests. May I resize it to 1024×1024? Your current instructions prohibit resizing.
